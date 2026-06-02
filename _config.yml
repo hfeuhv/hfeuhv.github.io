@@ -7,14 +7,14 @@ title: xiaowang524 的博客
 subtitle: 打比赛，补题，复盘，成长
 description: ''
 keywords:
-author: xiaownag524
+author: xiaowang524
 language: zh-CN
 timezone:  Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://hfeuhv.github.io
-root: /xiaowang524.github.io/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
