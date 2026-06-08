@@ -1,5 +1,5 @@
 ---
-title: Codeforces Round 1102 Div.2 补题记录
+title: Codeforces Round 1102 Div.2
 date: 2026-06-08 20:00:00
 categories:
   - 题解
@@ -10,8 +10,7 @@ tags:
   - Div2
 ---
 
-本文记录 Codeforces Round 1102 Div.2 的补题过程，包括题意理解、思路推导、错因分析和代码复盘。
-
+本文记录 Codeforces Round 1102 Div.2 的补题过程
 <!-- more -->
 
 # Codeforces Round 1102 (Div. 2)
