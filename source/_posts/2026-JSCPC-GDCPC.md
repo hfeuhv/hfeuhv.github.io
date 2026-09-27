@@ -1,5 +1,5 @@
 ---
-title: 2026 JSCPC && GDCPC 补题记录
+title: 2026 JSCPC && GDCPC
 date: 2026-06-02 15:06:53
 categories:
   - 题解
@@ -9,6 +9,9 @@ tags:
   - JSCPC
   - GDCPC
 ---
+
+本文记录 2026 JSCPC & GDCPC 的补题过程
+<!-- more -->
 
 # 2026 JSCPC & GDCPC
 
